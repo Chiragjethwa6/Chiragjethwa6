@@ -20,6 +20,10 @@
 
 <h3 align="center"><u>Github Summary</u></h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-972001&langs_count=8&layout=compact&theme=highcontrast" alt="Aniruddha-972001" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+Chiragjethwa6&langs_count=8&layout=compact&theme=highcontrast" alt=
+Chiragjethwa6" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniruddha-972001&show_icons=true&theme=highcontrast" alt="Aniruddha-972001" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=
+Chiragjethwa6&show_icons=true&theme=highcontrast" alt="
+Chiragjethwa6" /></p>
