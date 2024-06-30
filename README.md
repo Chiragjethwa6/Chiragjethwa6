@@ -2,7 +2,7 @@
 <img align="right" alt="coding-gif" width="450" height="230" src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif">
 
 <h3 align="center"><u>Hello 👋, I am Chirag,</u></h3>
-- 👨‍🎓 1st year year MSCS Student @ SUNY,Binghamton University
+- 👨‍🎓 1st year MSCS Student @ SUNY,Binghamton University
 <p></p>
 - 💻	Currently exploring node.js , express.js , mongoDB , mongoose
 </p>
