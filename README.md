@@ -2,9 +2,9 @@
 <img align="right" alt="coding-gif" width="450" height="230" src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif">
 
 <h3 align="center"><u>Hello 👋, I am Chirag,</u></h3>
-- 👨‍🎓 1st year MSCS Student @ SUNY,Binghamton University
+- 👨‍🎓 Graduate Student @ SUNY,Binghamton University
 <p></p>
-- 💻	Currently exploring node.js , express.js , mongoDB , mongoose
+- 💻	Skills: Java, Spring Boot, Python, NodeJS, ExpressJS, Microservices
 </p>
 - 📚 Ready to collaborate on Web-Dev and Algorithmic projects
 
