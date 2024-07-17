@@ -1,10 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)]
+![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Chirag Jethwa</h1>
 <h3 align="center">Crafting Seamless Digital Experiences from Frontend to Backend</h3>
 <img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif'>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragjethwa6&label=Profile%20views&color=0e75b6&style=flat" alt="chiragjethwa6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragjethwa6" alt="chiragjethwa6" /></a> </p>
 
 - 🌱 I’m currently learning **Devops, Amazon Web Services**
 
@@ -14,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jgnqPLUmPiy1qXCpx1dV_VpLtAINBcPe/view?usp=drive_link](https://drive.google.com/file/d/1jgnqPLUmPiy1qXCpx1dV_VpLtAINBcPe/view?usp=drive_link)
 
-- ⚡ Fun fact **I can debug code and create seamless web experiences, all while making you laugh.**
+- ⚡ **I can debug code and create seamless web experiences, all while making you laugh.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
