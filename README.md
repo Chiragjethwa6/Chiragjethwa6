@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, Python, NodeJS**
 
-- 📫 How to reach me **chiragjethwa6@gmail.com**
+- 📫 Reach me at **chiragjethwa6@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jgnqPLUmPiy1qXCpx1dV_VpLtAINBcPe/view?usp=drive_link](https://drive.google.com/file/d/1jgnqPLUmPiy1qXCpx1dV_VpLtAINBcPe/view?usp=drive_link)
 
