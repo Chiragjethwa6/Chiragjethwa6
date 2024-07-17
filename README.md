@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Chirag Jethwa</h1>
 <h3 align="center">Crafting Seamless Digital Experiences from Frontend to Backend</h3>
-<img align='right' alt='coding' width='400' src='https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif'>
+<img align='right' alt='coding' width='500' src='https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif'>
 
 - 🌱 I’m currently learning **Devops, Amazon Web Services**
 
